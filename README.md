@@ -7,4 +7,5 @@
 
 ### Sample Video
 
-![Video](./output.mp4)
+https://github.com/bharathkalyans/precize-assignment/assets/49526472/610e9e8a-3abd-4569-9b31-82e7ddb09043
+
